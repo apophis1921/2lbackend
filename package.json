@@ -1,0 +1,20 @@
+{
+  "name": "2lbackend",
+  "version": "1.0.0",
+  "description": "a basic app to deploy(for ur ref only it doesn't go anywhere)",
+  "keywords": [
+    "node",
+    "bend"
+  ],
+  "license": "ISC",
+  "author": "anuj chahar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
